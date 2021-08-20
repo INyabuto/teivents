@@ -1,0 +1,16 @@
+utils::globalVariables(c(
+  "status",
+  "program",
+  "programStage",
+  "enrollment",
+  "orgUnit",
+  "eventDate",
+  "dueDate",
+  "dataElement",
+  "value",
+  "storedBy",
+  "providedElsewhere",
+  "completedDate",
+  "completedBy",
+  "."
+))
